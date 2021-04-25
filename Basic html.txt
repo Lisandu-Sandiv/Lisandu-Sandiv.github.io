@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Space Race</title>
+  <link rel="shortcut icon" type="image/svg" href="Lisandu-Sandiv.github.io\Icons\bug.svg">
+  <link rel="stylesheet" href="CSS\style.css">
+  <link rel="stylesheet" href="#">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto:wght@900&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+  <nav>
+
+
+    <lable class="logo">
+      <p>Space Race</p>
+    </lable>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="#">Information</a></li>
+      <li><a href="#">Missions</a></li>
+      <li><a href="#">Gallery</a></li>
+      <li><a href="#">About</a></li>
+    </ul>
+  </nav>
+  <br><br>
+
+</body>
+
+</html>
